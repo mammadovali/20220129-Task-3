@@ -1,0 +1,16 @@
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.exe
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.deps.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.runtimeconfig.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.runtimeconfig.dev.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ref\ConsoleApp.Problem13.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\bin\Debug\net5.0\ConsoleApp.Problem13.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.csproj.AssemblyReference.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.AssemblyInfoInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.AssemblyInfo.cs
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.csproj.CoreCompileInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ref\ConsoleApp.Problem13.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem13\obj\Debug\net5.0\ConsoleApp.Problem13.genruntimeconfig.cache

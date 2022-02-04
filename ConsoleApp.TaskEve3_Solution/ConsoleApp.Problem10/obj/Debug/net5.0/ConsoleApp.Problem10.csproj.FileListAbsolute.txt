@@ -1,0 +1,15 @@
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.exe
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.deps.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.runtimeconfig.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.runtimeconfig.dev.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ref\ConsoleApp.Problem10.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\bin\Debug\net5.0\ConsoleApp.Problem10.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.AssemblyInfoInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.AssemblyInfo.cs
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.csproj.CoreCompileInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ref\ConsoleApp.Problem10.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem10\obj\Debug\net5.0\ConsoleApp.Problem10.genruntimeconfig.cache

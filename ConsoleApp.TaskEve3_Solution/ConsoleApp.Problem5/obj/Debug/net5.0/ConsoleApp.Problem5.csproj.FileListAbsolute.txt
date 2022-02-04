@@ -1,0 +1,15 @@
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.exe
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.deps.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.runtimeconfig.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.runtimeconfig.dev.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ref\ConsoleApp.Problem5.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\bin\Debug\net5.0\ConsoleApp.Problem5.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.AssemblyInfoInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.AssemblyInfo.cs
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.csproj.CoreCompileInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ref\ConsoleApp.Problem5.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.TaskEve3_Solution\ConsoleApp.Problem5\obj\Debug\net5.0\ConsoleApp.Problem5.genruntimeconfig.cache

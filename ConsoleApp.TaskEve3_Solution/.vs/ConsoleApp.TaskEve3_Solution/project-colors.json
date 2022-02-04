@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "221bae92-e984-4c5a-a3da-e391349af453": {
+      "ProjectGuid": "221bae92-e984-4c5a-a3da-e391349af453",
+      "DisplayName": "ConsoleApp.Problem1",
+      "ColorIndex": 0
+    },
+    "7eb73229-d410-4ce8-9d6e-aa0a53665231": {
+      "ProjectGuid": "7eb73229-d410-4ce8-9d6e-aa0a53665231",
+      "DisplayName": "ConsoleApp.Problem2",
+      "ColorIndex": 1
+    },
+    "81ac0475-6fca-4176-b388-06a0e82f54d4": {
+      "ProjectGuid": "81ac0475-6fca-4176-b388-06a0e82f54d4",
+      "DisplayName": "ConsoleApp.Problem3",
+      "ColorIndex": 2
+    },
+    "9aef0d8b-c1c8-4f58-9594-ce775731a479": {
+      "ProjectGuid": "9aef0d8b-c1c8-4f58-9594-ce775731a479",
+      "DisplayName": "ConsoleApp.Problem4",
+      "ColorIndex": 3
+    },
+    "b9061bbe-6528-496e-a723-4258a26589d4": {
+      "ProjectGuid": "b9061bbe-6528-496e-a723-4258a26589d4",
+      "DisplayName": "ConsoleApp.Problem5",
+      "ColorIndex": 4
+    },
+    "dab3b3aa-a9cd-4a2d-b986-4bd78dc317ab": {
+      "ProjectGuid": "dab3b3aa-a9cd-4a2d-b986-4bd78dc317ab",
+      "DisplayName": "ConsoleApp.Problem6",
+      "ColorIndex": 5
+    },
+    "49ce89ff-79ab-47c3-a770-38d09c2fdcaf": {
+      "ProjectGuid": "49ce89ff-79ab-47c3-a770-38d09c2fdcaf",
+      "DisplayName": "ConsoleApp.Problem7",
+      "ColorIndex": 6
+    },
+    "a623675e-3599-42b4-8eb9-39d5cff1daa3": {
+      "ProjectGuid": "a623675e-3599-42b4-8eb9-39d5cff1daa3",
+      "DisplayName": "ConsoleApp.Problem8",
+      "ColorIndex": 7
+    },
+    "9291672e-1fc4-4e35-9b70-dab144bd0a3c": {
+      "ProjectGuid": "9291672e-1fc4-4e35-9b70-dab144bd0a3c",
+      "DisplayName": "ConsoleApp.Problem9",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7291fe4b-c56f-48b3-90a1-549ed37b0b2e": {
+      "ProjectGuid": "7291fe4b-c56f-48b3-90a1-549ed37b0b2e",
+      "DisplayName": "ConsoleApp.Problem10",
+      "ColorIndex": 9
+    },
+    "39e6f2bb-1e94-4c77-bfa9-532e77b0e5d1": {
+      "ProjectGuid": "39e6f2bb-1e94-4c77-bfa9-532e77b0e5d1",
+      "DisplayName": "ConsoleApp.Problem11",
+      "ColorIndex": 10
+    },
+    "2fbfed94-89d0-46c2-a6d0-9f567cb6afeb": {
+      "ProjectGuid": "2fbfed94-89d0-46c2-a6d0-9f567cb6afeb",
+      "DisplayName": "ConsoleApp.Problem12",
+      "ColorIndex": 11
+    },
+    "82d70933-3fce-4a6d-b5ab-fc8aedf42e03": {
+      "ProjectGuid": "82d70933-3fce-4a6d-b5ab-fc8aedf42e03",
+      "DisplayName": "ConsoleApp.Problem13",
+      "ColorIndex": 12
+    },
+    "9246bdde-4b70-487e-973c-d57d2d5bc328": {
+      "ProjectGuid": "9246bdde-4b70-487e-973c-d57d2d5bc328",
+      "DisplayName": "ConsoleApp.Problem14",
+      "ColorIndex": 13
+    },
+    "ba3156bc-aa92-4377-8ad1-f2a06497fa71": {
+      "ProjectGuid": "ba3156bc-aa92-4377-8ad1-f2a06497fa71",
+      "DisplayName": "ConsoleApp.Problem4",
+      "ColorIndex": 14
+    },
+    "842ad70f-ab87-40d4-8655-f06e98fffc63": {
+      "ProjectGuid": "842ad70f-ab87-40d4-8655-f06e98fffc63",
+      "DisplayName": "ConsoleApp.Problem15",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}
